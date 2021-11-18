@@ -10,7 +10,7 @@ const IndexPage = ({data}) => {
     <main>
       <title>Home Page</title>
       <div>
-        hello
+        {data.sanityPerson.name}
       </div>
       <GatsbyImage image={img}/>
     </main>
