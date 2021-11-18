@@ -7,8 +7,8 @@ module.exports = {
     {
       resolve: "gatsby-source-sanity",
       options: {
-        projectId: "",
-        dataset: "",
+        projectId: "6x2uem6g",
+        dataset: "production",
       },
     },
     "gatsby-plugin-image",
