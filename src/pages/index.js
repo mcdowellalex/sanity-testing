@@ -12,7 +12,7 @@ const IndexPage = ({data}) => {
       <div>
         hello
       </div>
-      <GatsbyImage image={img} alt={''}/>
+      <GatsbyImage image={img}/>
     </main>
   )
 }
